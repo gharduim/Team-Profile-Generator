@@ -37,7 +37,7 @@ THEN I exit the application, and the HTML is generated
 
 ### Demonstration
 
-View a complete video demonstration of the application: [Professional Team Profile Generator Demo](https://drive.google.com/file/d/1z-17o_35bS_CMjLPCu_ju3fi8b6UIA0P/view?usp=sharing)
+View a complete video demonstration of the application: [Professional Team Profile Generator Demo](https://drive.google.com/file/d/17LtuR6DN1_6txMWytjzDXenAQomS-SYo/view?usp=sharing)
 
 ![out-Team-screen](./assets/video/Team-demo.gif "Output Team Profile file")
 
